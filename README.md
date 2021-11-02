@@ -2,6 +2,8 @@
 
 > 가구 및 생활 소품 판매를 하는 다국적 기업인 [**IKEA**](https://www.ikea.com/kr/ko/) 를 클론 코딩한 **WEKEA** 팀 입니다!
 
+> 백엔드 github: https://github.com/wecode-bootcamp-korea/25-1st-WEKEA-backend.git
+
 </br>
 
 !["main_preview"](public/Image/main_preview.gif)
