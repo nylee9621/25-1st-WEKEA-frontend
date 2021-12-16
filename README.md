@@ -14,9 +14,10 @@
 - [백엔드 github](https://github.com/wecode-bootcamp-korea/25-1st-WEKEA-backend.git)
 
 ## View & Function
-- 레이아웃: 제품 상세, 장바구니 페이지
+### 레이아웃: 제품 상세, 장바구니 페이지
 ![Screenshot 2021-10-17 at 21 40 37](https://user-images.githubusercontent.com/40952119/146351510-1c113a91-9b0b-4c4a-985c-28c5b4797e55.jpg)
 
 
-- 슬라이드: 이미지 모달과 상품 리스트 부분에서 사용
+### 슬라이드: 이미지 모달과 상품 리스트 부분에서 사용
 <img width="924" alt="슬라이드 모달" src="https://user-images.githubusercontent.com/40952119/146351462-3c262b19-01ab-47ac-8851-8808779683b4.png">
+
