@@ -1,6 +1,6 @@
-# wecode 1st project : Team WEKEA 🪑
+# wecode 1st project : WEKEA
 
-> 가구 및 생활 소품 판매를 하는 다국적 기업인 [**IKEA**](https://www.ikea.com/kr/ko/) 를 모티브로 진행한 **WEKEA** 팀 입니다!
+> 가구 및 생활 소품 판매를 하는 다국적 기업인 [**IKEA**](https://www.ikea.com/kr/ko/) 를 모티브로 진행한 프로젝트입니다.
 
 > 백엔드 github: https://github.com/wecode-bootcamp-korea/25-1st-WEKEA-backend.git
 
@@ -20,49 +20,20 @@
 
 ### 프로젝트 기간
 
-- 21.10.05 (화) ~ 21.10.15 (금)
+- 2021년 10월 5일 ~ 2021년 10월 15일 (2주간)
 
 </br>
 
-### 팀원 소개
+### 참여 인원
 
-</br>
-
-#### FrontEnd
-
-- 박산성
-- 성해호
-- 이상철
-- 이나영
-
-</br>
-
-#### Backend
-
-- 양가현
-- 김주형
-
-</br>
-
+- 프론트엔드 4명, 백엔드 2명 (총 6명)
 ---
 
 </br>
 
-## 기술 스택
+## 개인 사용 기술 스텍
 
-</br>
-
-### FrontEnd
-
-- `Javascript`, `React(CRA)`, `React-router-DOM`, `SCSS`
-
-</br>
-
-### Backend
-
-- `Python`, `Django`, `MySQL`, `JWT`, `bcrypt`
-
-</br>
+- HTML, CSS, JavaScript, React, Sass
 
 ### Communication
 
