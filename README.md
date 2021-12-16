@@ -1,5 +1,5 @@
 # WEKEA
-> 가구 및 생활 소품 판매를 하는 다국적 기업인 [IKEA](https://www.ikea.com/kr/ko/)를 모티브로 한 팀 프로젝트.
+> 가구 및 생활 소품 판매를 하는 다국적 기업 [IKEA](https://www.ikea.com/kr/ko/)를 모티브로 한 팀 프로젝트.
 
 ## Introduction
 - 진행 기간: 2021년 10월 5일 ~ 2021년 10월 15일 (2주)
@@ -33,5 +33,6 @@
 <img width="927" alt="평점" src="https://user-images.githubusercontent.com/40952119/146352909-51994b4f-a9a1-48e2-b548-9ee87e959c94.png">
 
 #### 4. 평점 및 별점
+
 #### 5. 화면 로딩시 로딩 페이지
 - 페이지가 로딩 중일 때 가운데 작은 공이 위아래로 움직인다.
