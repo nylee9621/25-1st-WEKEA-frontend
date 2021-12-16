@@ -6,7 +6,7 @@
 
 </br>
 
-!["main_preview"](public/Image/main_preview.gif)
+https://youtu.be/T7oaFLtjy6U
 
 </br>
 
